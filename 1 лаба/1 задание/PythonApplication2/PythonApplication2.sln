@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1 лаба (1 задание) 6 вариант", "1 лаба (1 задание) 6 вариант.pyproj", "{4007FC38-70C2-4B69-B8CF-70299A47FDE7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1 лаба (2 задание) 6 вариант", "..\PythonApplication3\1 лаба (2 задание) 6 вариант.pyproj", "{B6437891-E990-47D6-B8A7-000EE042B881}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2 лаба(1 задание 6 вариант)", "..\PythonApplication4\2 лаба(1 задание 6 вариант).pyproj", "{E6385475-7CFE-482B-A5EA-6B9BA1F525F0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2 лаба(2 задание 6 вариант)", "..\2 лаба(2 задание 6 вариант)\2 лаба(2 задание 6 вариант).pyproj", "{AC527A90-39D9-4D5B-B031-4D2E276777A6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3 лаба 1 задание", "..\3 лаба 1 задание\3 лаба 1 задание.pyproj", "{11DBF6A1-D809-4B9D-846A-BADE8945BE46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4007FC38-70C2-4B69-B8CF-70299A47FDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4007FC38-70C2-4B69-B8CF-70299A47FDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6437891-E990-47D6-B8A7-000EE042B881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6437891-E990-47D6-B8A7-000EE042B881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6385475-7CFE-482B-A5EA-6B9BA1F525F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6385475-7CFE-482B-A5EA-6B9BA1F525F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC527A90-39D9-4D5B-B031-4D2E276777A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC527A90-39D9-4D5B-B031-4D2E276777A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DBF6A1-D809-4B9D-846A-BADE8945BE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DBF6A1-D809-4B9D-846A-BADE8945BE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53E0A11-7458-46D5-B4C9-BA32163774EB}
+	EndGlobalSection
+EndGlobal
