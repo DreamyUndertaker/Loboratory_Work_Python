@@ -1,0 +1,10 @@
+{
+    "zenMode.centerLayout": false,
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideTabs": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.restore": false,
+    "zenMode.silentNotifications": false,
+    "zenMode.fullScreen": false
+}
