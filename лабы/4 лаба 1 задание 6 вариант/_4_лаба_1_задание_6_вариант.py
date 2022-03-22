@@ -1,6 +1,6 @@
 real_Number = input().split(" ")
-real_Number = [float(i) for i in ssd]
-real_Number = [j for j in ssd if j % 2 == 0]
+real_Number = [float(i) for i in real_Number]
+real_Number = [j for j in real_Number if j % 2 == 0]
 if real_Number:
     small_Number = real_Number[0]
     for i in real_Number:
